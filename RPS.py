@@ -1,5 +1,5 @@
 import random
-random.randint(0,3)
+random.randint(0,2)
 
 a = random.randint(0,2)
 b = random.randint(0,2)
